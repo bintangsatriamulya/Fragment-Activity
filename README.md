@@ -3,7 +3,7 @@
 
 Build Apk : https://drive.google.com/file/d/1Im4HGWJODuIlo_l8wS7Uk6WbELHDm1Ft/view?usp=sharing 
 
-sdk minimum for apk is sdk 25 or Android 5
+sdk minimum for apk is sdk 25 or Android 7
 
 -INPUTAN TEXT 
 
